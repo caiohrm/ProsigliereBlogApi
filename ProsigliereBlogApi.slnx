@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ProsigliereBlogApi.Tests/ProsigliereBlogApi.Tests.csproj" />
+  <Project Path="ProsigliereBlogApi/ProsigliereBlogApi.csproj" />
+</Solution>
